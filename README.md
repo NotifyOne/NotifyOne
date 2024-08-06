@@ -2,7 +2,7 @@
 
 # Drupal
 - [Autoswap database via git branch](Drupal/AutoswapDatabase.md)
-
+- [Ultimate cron force every minute](Drupal/UltimateCronEveryMinuteAll.md)
 <!--
 **NotifyOne/NotifyOne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
