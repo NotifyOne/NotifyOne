@@ -3,7 +3,7 @@
 WARNING: 
 - file_get_contents() must be enabled
 
->html/sites/default/settings.local.php
+>\[WEBROOT\]/sites/default/settings.local.php
 ```
 // Feature: override the database via branch.
 try {
